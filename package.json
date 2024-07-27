@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "node-cache": "^5.1.2",
+    "node-fetch": "^2.7.0"
+  },
+  "scripts": {
+    "start": "node weather.js"
+  }
+}
